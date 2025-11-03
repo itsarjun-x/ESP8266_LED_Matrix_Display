@@ -18,7 +18,7 @@ Each mode can be uploaded individually to the ESP8266.
 
 ---
 
-## ⚙️ Features
+## Features
 
 ✅ Real-time clock using NTPClient and WiFi  
 ✅ Smooth FastLED animations  
@@ -28,7 +28,7 @@ Each mode can be uploaded individually to the ESP8266.
 
 ---
 
-## 🔌 Hardware Used
+## Hardware Used
 
 | Component | Description |
 |------------|-------------|
@@ -41,7 +41,7 @@ Each mode can be uploaded individually to the ESP8266.
 
 ---
 
-## 🧩 Libraries Used
+## Libraries Used
 
 | Library | Description |
 |----------|-------------|
@@ -55,13 +55,13 @@ Each mode can be uploaded individually to the ESP8266.
 
 ---
 
-## 🖼️ Circuit Diagram
+## Circuit Diagram
 
-![Circuit Diagram](circuit/esp8266_led_matrix_circuit.png)
+![Circuit Diagram](circuit/esp8266_led_matrix_circuit.jpg)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open **Arduino IDE**  
 2. Select **NodeMCU 1.0 (ESP-12E Module)** from Tools → Board  
@@ -74,7 +74,7 @@ Each mode can be uploaded individually to the ESP8266.
 
 ---
 
-## 🧠 About
+## About
 
 This project combines **IoT** and **embedded programming** concepts using the ESP8266 platform.  
 It’s part of my learning journey in **electronics and coding** — exploring how hardware and software interact.
